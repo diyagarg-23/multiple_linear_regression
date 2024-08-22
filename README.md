@@ -1,5 +1,5 @@
-# Multiple Regression
-This repository documents my learning experience on Multiple Regression based on a YouTube tutorial.
+# Multiple Linear Regression
+This repository documents my learning experience on Multiple Linear Regression based on a YouTube tutorial.
 
 # Dataset
 The project uses the load_diabetes dataset from sklearn.
